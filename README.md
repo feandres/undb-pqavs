@@ -9,6 +9,7 @@ O propósito dessa API é realizar leituras dos indicadores do banco de dados do
 - [Java](https://www.java.com/pt-BR/)
 - [SpringBoot3](https://spring.io/)
 - [VS Code](https://code.visualstudio.com/)
+- [GitFlow](https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow)
 
 ### Fazendo um fork
 
